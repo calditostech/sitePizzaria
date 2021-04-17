@@ -20,7 +20,23 @@
      <a href="">Contatos</a>      
   </div>
   <div class="main">
-      
+  <ul class="slider">
+    <li>
+          <input type="radio" id="slide1" name="slide" checked>
+          <label for="slide1"></label>
+          <img src="img/slide2.jpg" />
+    </li>
+   <!-- <li>
+          <input type="radio" id="slide2" name="slide">
+          <label for="slide2"></label>
+          <img src="img/slide2.jpg" />
+    </li>
+    <li>
+          <input type="radio" id="slide3" name="slide">
+          <label for="slide3"></label>
+          <img src="img/slide3.jpg" />
+    </li> -->
+</ul>
   </div>  
   <div class="footer">
       
