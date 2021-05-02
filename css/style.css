@@ -28,8 +28,9 @@ a {
 * { margin: 0; padding: 0; }
 
 .main {
-    width: 1400px;
+    width: 1600px;
     height: 500px;
+    margin-top: 50px;
 }
 
 .slider {
@@ -89,4 +90,10 @@ a {
     opacity: 1;
     visibility: visible;
     z-index: 10;
+}
+
+.card-pizza {
+    width: 1600px;
+    height: 500px;
+    margin-top: 180px;
 }
